@@ -4,6 +4,4 @@ I am still a beginner, learning and improving by making projects. I am eager to 
 
 ## Currently Learning 📖
 * Android Development
-* Java
 * Kotlin
-* Python
