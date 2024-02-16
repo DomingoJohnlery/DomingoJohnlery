@@ -5,6 +5,3 @@ I am still a beginner, learning and improving by making projects. I am eager to 
 ## Currently Learning 📖
 * Android Development
 * Web Development
-* Kotlin
-* HTML & CSS
-* JavaScript
